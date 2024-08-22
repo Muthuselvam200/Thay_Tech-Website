@@ -1,0 +1,31 @@
+Overview:
+Our Online and Offline Training options provide flexible learning solutions to accommodate different preferences, schedules, and learning styles. These programs are designed to deliver comprehensive training in a manner that best fits your needs.
+
+Detailed Explanation:
+
+Online Training:
+
+Objective: To offer flexible, accessible learning that allows participants to study at their own pace and convenience.
+Structure:
+Course Modules: Interactive online courses that include video lectures, reading materials, and quizzes.
+Virtual Labs: Simulated environments where participants can practice using the software.
+Discussion Forums: Platforms for participants to interact with trainers and peers, share insights, and ask questions.
+Benefits:
+Flexibility: Learn from anywhere, at any time, accommodating various schedules and time zones.
+Scalability: Easily scalable to accommodate large numbers of participants.
+Cost-Effectiveness: Reduced travel and accommodation costs for both participants and organizations.
+Outcome: Participants gain the skills needed to effectively use the software, with the convenience of self-paced learning.
+
+
+Offline Training:
+
+Objective: To provide a structured, face-to-face learning experience with direct interaction between trainers and participants.
+Structure:
+Classroom Sessions: Interactive lectures and demonstrations conducted in person.
+Hands-On Exercises: Practical sessions where participants use the software under the guidance of trainers.
+Group Activities: Collaborative exercises that foster teamwork and problem-solving skills.
+Benefits:
+Personal Interaction: Direct access to trainers for immediate feedback and clarification.
+Immersive Learning: An environment conducive to focused learning and networking opportunities.
+Real-Time Problem Solving: Immediate resolution of questions and challenges in a collaborative setting.
+Outcome: Participants receive personalized attention and hands-on experience, leading to a thorough understanding of the software and its applications.

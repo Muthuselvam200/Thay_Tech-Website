@@ -1,0 +1,25 @@
+Overview:
+On-Job Training (OJT) integrates learning with actual work tasks, providing employees with immediate, practical experience. This approach is ideal for those who need to apply their learning directly to their day-to-day responsibilities.
+
+Detailed Explanation:
+
+Objective: To provide employees with practical, hands-on experience using the software as they perform their job duties. This method helps employees learn by doing, which enhances skill acquisition and application.
+
+Methodology:
+
+Initial Assessment: Evaluating employees’ existing skills and identifying areas for improvement.
+Structured Guidance: Trainers work alongside employees at their workstations, offering step-by-step guidance and support.
+Real-Time Application: Employees apply new skills directly to their tasks, reinforcing learning through immediate practice.
+Ongoing Support: Trainers provide continuous feedback, address challenges, and adjust training based on employee progress.
+Program Structure:
+
+Introduction to Tasks: Familiarizing employees with the software’s role in their specific job functions.
+Guided Practice: Employees perform tasks with trainer oversight, receiving instructions and feedback.
+Performance Evaluation: Assessing the effectiveness of the training and the employees' ability to perform tasks independently.
+Continuous Improvement: Offering additional support and resources as needed to address any lingering challenges.
+Benefits:
+
+Contextual Learning: Employees learn in the context of their actual work, which enhances the relevance and retention of skills.
+Immediate Application: Skills are applied as they are learned, leading to faster proficiency and problem resolution.
+Personalized Feedback: Tailored guidance helps address individual learning needs and barriers.
+Outcome: Employees gain practical experience and confidence in using the software, leading to improved job performance and productivity.
