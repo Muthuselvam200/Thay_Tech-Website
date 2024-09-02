@@ -1,18 +1,23 @@
-import React from 'react';
-import Navbar from './components/navbar/Navbar';
-import HomePage from './components/home/HomePage';
-import Footer from './components/footer/Footer';
-import TweetCardComponent from './components/home/TweetCardComponent';
+import React from "react";
+import Navbar from "./components/navbar/Navbar";
+import HomePage from "./components/home/HomePage";
+
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import OurClients from "./components/clients/OurClients";
 
 const App: React.FC = () => {
   return (
     <div>
-      <Navbar />
-      <main>
-        <HomePage />
-        <TweetCardComponent />
-      </main>
-      <Footer />
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path="*" element={<HomePage />} />
+          <Route
+            path="/ourClients"
+            element={<OurClients/>}
+          />
+        </Routes>
+      </Router>
     </div>
   );
 };
