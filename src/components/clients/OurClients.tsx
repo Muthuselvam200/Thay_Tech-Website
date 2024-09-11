@@ -31,11 +31,6 @@ const OurClients = () => {
   return (
     <>
       <div className="relative z-0">
-        <div className="absolute inset-0 flex items-center justify-between">
-          <div className="w-1/3 h-full" />
-          <div className="w-4/6 ml-16 h-full" />
-        </div>
-
         <div className="relative z-40 xl:px-20 px-8 py-20 2xl:mx-auto 2xl:container">
           <CarouselProvider
             naturalSlideWidth={100}
@@ -118,8 +113,7 @@ const OurClients = () => {
           </CarouselProvider>
         </div>
 
-        <div className="relative z-10 xl:px-20 px-8 py-20 2xl:mx-auto 2xl:container">
-          <div className="flex flex-col">
+          <div className="relative z-10 xl:px-20 px-8 py-20 2xl:mx-auto 2xl:container flex flex-col">
             <div className="flex flex-wrap items-center mb-8">
               <div className="w-full md:w-1/2 mb-4 md:mb-0">
                 <h3 className="text-5xl font-bold leading-tight lg:leading-10 text-gray-800 my-8">
@@ -158,7 +152,6 @@ const OurClients = () => {
               ))}
             </div>
           </div>
-        </div>
       </div>
     </>
   );
