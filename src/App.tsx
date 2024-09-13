@@ -23,6 +23,7 @@ import OnlineOfflineTraining from "./components/service/software_training/Online
 import Contact from "./components/contact/Contact";
 import TechIntegration from "./components/service/it_consulting/TechIntegeration";
 import StaffOutSourcing from "./components/service/outsourcing/StaffOutsourcing";
+import Clients from "./components/clients/Clients";
 
 const App: React.FC = () => {
   return (
@@ -36,22 +37,66 @@ const App: React.FC = () => {
           <Route path="/services/outsourcing" element={<OutSourcing />} />
           <Route path="/services/it-consulting" element={<ITConsulting />} />
           <Route path="/services/cloud-support" element={<CloudSupport />} />
-          <Route path="/services/software-training" element={<SoftwareTraining />} />
-          <Route path="/services/development/software-development" element={<SoftwareDevelopment />} />
-          <Route path="/services/development/product-development" element={<ProductDevelopment />} />
-          <Route path="/services/cloud-support/application-support" element={<ApplicationSupport />} />
-          <Route path="/services/cloud-support/database-support" element={<DatabaseSupport />} />
-          <Route path="/services/cloud-support/operating-system" element={<OSSupport />} />
-          <Route path="/services/cloud-support/network-support" element={<NetworkSupport />} />
-          <Route path="/services/outsourcing/infrastructure-outsourcing" element={<InfrastructureOutsourcing />} />
-          <Route path="/services/outsourcing/staff-outsourcing" element={<StaffOutSourcing />} />
-          <Route path="/services/software-training/corporate-training" element={<CorporateTraining />} />
-          <Route path="/services/software-training/on-job-training" element={<OnJobTraining />} />
-          <Route path="/services/software-training/project-training" element={<ProjectTraining />} />
-          <Route path="/services/software-training/online-offline-training" element={<OnlineOfflineTraining />} />
-          <Route path="/services/it-consulting/tech-integration" element={<TechIntegration />} />
+          <Route
+            path="/services/software-training"
+            element={<SoftwareTraining />}
+          />
+          <Route
+            path="/services/development/software-development"
+            element={<SoftwareDevelopment />}
+          />
+          <Route
+            path="/services/development/product-development"
+            element={<ProductDevelopment />}
+          />
+          <Route
+            path="/services/cloud-support/application-support"
+            element={<ApplicationSupport />}
+          />
+          <Route
+            path="/services/cloud-support/database-support"
+            element={<DatabaseSupport />}
+          />
+          <Route
+            path="/services/cloud-support/operating-system"
+            element={<OSSupport />}
+          />
+          <Route
+            path="/services/cloud-support/network-support"
+            element={<NetworkSupport />}
+          />
+          <Route
+            path="/services/outsourcing/infrastructure-outsourcing"
+            element={<InfrastructureOutsourcing />}
+          />
+          <Route
+            path="/services/outsourcing/staff-outsourcing"
+            element={<StaffOutSourcing />}
+          />
+          <Route
+            path="/services/software-training/corporate-training"
+            element={<CorporateTraining />}
+          />
+          <Route
+            path="/services/software-training/on-job-training"
+            element={<OnJobTraining />}
+          />
+          <Route
+            path="/services/software-training/project-training"
+            element={<ProjectTraining />}
+          />
+          <Route
+            path="/services/software-training/online-offline-training"
+            element={<OnlineOfflineTraining />}
+          />
+          <Route
+            path="/services/it-consulting/tech-integration"
+            element={<TechIntegration />}
+          />
           <Route path="/contact-us" element={<Contact />} />
+          <Route path="/clients" element={<Clients />} />
         </Routes>
+        <Footer />
       </Router>
     </div>
   );

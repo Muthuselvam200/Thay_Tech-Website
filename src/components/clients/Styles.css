@@ -1,0 +1,21 @@
+/* Add this to your CSS file or within a <style> tag in your component */
+
+@keyframes continuousScroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.continuous-slider {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+}
+
+.slide-track {
+  display: flex;
+  animation: continuousScroll 20s linear infinite;
+}
